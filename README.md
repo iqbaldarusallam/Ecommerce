@@ -27,7 +27,7 @@ Website ini terdiri dari tiga halaman utama: Home, Product, dan About, yang semu
 ## Ringkasan Fitur
 
 - Home Page: Hero section + ringkasan fitur aplikasi
-- Product Page: Daftar produk dari API, fitur pencarian, serta modal keranjang belanja
+- Product Page: Daftar produk dari API, fitur pencarian, serta modal pada saat klik add to cart keranjang belanja
 - About Page: Informasi singkat + kontak Customer Service
 - Tampilan Konsisten: Navbar & footer sama di seluruh halaman
 
