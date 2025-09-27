@@ -32,7 +32,7 @@ const Hero = () => {
 
         {/* CTA Buttons */}
         <div className="flex flex-col sm:flex-row items-center justify-center gap-4 pt-2 text-center">
-          <NavLink to="/product">
+          <NavLink to="/Product">
             <button className="bg-orange-500 hover:bg-orange-600 transition text-white font-semibold rounded-full px-6 py-3 shadow-lg flex items-center gap-2 transform hover:scale-105">
               <MdShoppingCart size={20} />
               Shop Now
